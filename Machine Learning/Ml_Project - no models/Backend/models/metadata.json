@@ -1,0 +1,40 @@
+{
+  "model_name": "K-Nearest Neighbors Classifier",
+  "vectorizer": "CountVectorizer",
+  "vectorizer_params": {
+    "analyzer": "word",
+    "binary": false,
+    "decode_error": "strict",
+    "dtype": "<class 'numpy.int64'>",
+    "encoding": "utf-8",
+    "input": "content",
+    "lowercase": true,
+    "max_df": 1.0,
+    "max_features": 5000,
+    "min_df": 1,
+    "ngram_range": [
+      1,
+      1
+    ],
+    "preprocessor": null,
+    "stop_words": null,
+    "strip_accents": null,
+    "token_pattern": "(?u)\\b\\w\\w+\\b",
+    "tokenizer": null,
+    "vocabulary": null
+  },
+  "n_neighbors": 9,
+  "weights": "distance",
+  "metric": "cosine",
+  "train_size": 9908,
+  "test_size": 2478,
+  "classes": [
+    "Economy",
+    "Lifestyle",
+    "Politics",
+    "Sports",
+    "Travel"
+  ],
+  "accuracy": 0.8857949959644875,
+  "preprocessing": "resuse preprocess_text function for preprocessing the text data"
+}
