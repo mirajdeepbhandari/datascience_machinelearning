@@ -1,0 +1,21 @@
+1) pip install uv , pip3 install uv
+2) uv init .
+3) uv sync
+4) mac user 
+    -- go inside .venv/bin
+    -- copy relative path of active 
+    --- paste it in terminal
+
+    window user
+    --- go inside .venv/ scripts
+    --- if powershell - copy relative path of .ps1 file
+    --- if command prompt - copy relative path of .bat file
+
+
+- uv add ipywidgets ipykernel
+
+
+------------------------------------------
+To install virtual env do uv sync in terminal
+
+
