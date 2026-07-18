@@ -1,2 +1,3 @@
 https://www.kaggle.com/code/mirajverisk/finetuning-bert-for-classification
 Qwen_tune_code - https://www.kaggle.com/code/mirajverisk/fine-tune-qwen-for-codegen
+Qwen_tune_NER - https://www.kaggle.com/code/mirajdeepbhandari/quen-ner-tune/notebook
