@@ -1,1 +1,2 @@
 https://www.kaggle.com/code/mirajverisk/finetuning-bert-for-classification
+Qwen_tune_code - https://www.kaggle.com/code/mirajverisk/fine-tune-qwen-for-codegen
