@@ -1,0 +1,14 @@
+database connection - SQL
+Project - Beautful Soup ( web scrappping - data base ma rakhxam)
+
+
+____
+what next
+random
+1) Async Await
+2) Generators, Iterators
+3) Return, Yield
+4) Asyncio
+5) Multiprocessing and Multi THreadinds
+6) Threadpols, workers
+7) Decorators
